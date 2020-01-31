@@ -1,0 +1,17 @@
+{
+  "name": "mmdmaterialextractor",
+  "version": "1.0.0",
+  "description": "Generate Unity materials from .pmx model",
+  "main": "generate.js",
+  "respository": "https://github.com/funmaker/MMDMaterialExtractor",
+  "dependencies": {
+    "mmd-parser": "^1.0.3",
+    "yaml": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "author": "Fun Maker",
+  "license": "MIT"
+}
